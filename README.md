@@ -19,7 +19,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
  - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
-- 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks at Masai School
+- 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks.
 - 💼 &nbsp; I aspire to work as a full stack web developer.
 - 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
