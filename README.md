@@ -72,7 +72,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  <br>
  
- ![snake gif](https://github.com/Rohitb1107/Rohitb1107/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/fabpot11/fabpot11/blob/output/github-contribution-grid-snake.gif)
  </div>
  
 <br>
