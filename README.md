@@ -1,6 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpot11&label=Profile%20views&color=0e75b6&style=flat" alt="fabpot11" /> </p>
  
-<div align="center"><img alt="GIF" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="500" height="320" /></div>
+<div align="center">
+ <img align="center" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="700" height="320" />
+</div>
 <br>
 
 
