@@ -105,3 +105,23 @@
     </a>
   </div>
   
+ 
+ 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+<p align="center">
+<a href="https://github.com/monumishra326"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabpot11&theme=dracula" />
+</span></a> </p>
+
+ <br/>
+ 
+ 
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabpot11&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
