@@ -116,7 +116,10 @@
  <br/>
  
    <h3 align="center">Company github profile</h3>
- <img width="1440" alt="Screenshot 2022-10-01 at 12 16 24 AM" src="https://user-images.githubusercontent.com/97335788/193337392-969e9378-c3da-4aa0-b08f-51c08026bae3.png">
+
+<img width="1394" alt="Screenshot 2022-10-01 at 12 24 39 AM" src="https://user-images.githubusercontent.com/97335788/193337984-7ffc7616-96bf-4cd3-b84f-22f997ee7a48.png">
+
+
 
  
  
