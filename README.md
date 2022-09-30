@@ -104,9 +104,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=fabpot11&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  
- 
- 
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
@@ -117,6 +115,9 @@
 
  <br/>
  
+   <h3 align="center">Company github profile</h3>
+ <img width="1440" alt="Screenshot 2022-10-01 at 12 16 24 AM" src="https://user-images.githubusercontent.com/97335788/193337392-969e9378-c3da-4aa0-b08f-51c08026bae3.png">
+
  
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabpot11&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
