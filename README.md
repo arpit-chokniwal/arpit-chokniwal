@@ -115,7 +115,7 @@
 
  <br/>
  
-   <a src="https://github.com/arpitc11" align="center">Company github profile</a>
+   <h3 src="https://github.com/arpitc11" align="center">Company github profile</h3>
 
 <img width="1394" alt="Screenshot 2022-10-01 at 12 24 39 AM" src="https://user-images.githubusercontent.com/97335788/193337984-7ffc7616-96bf-4cd3-b84f-22f997ee7a48.png">
 
