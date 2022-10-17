@@ -117,14 +117,13 @@
  
    <h3 src="https://github.com/arpitc11" align="center">Company github profile</h3>
 
-<img width="1394" alt="Screenshot 2022-10-01 at 12 24 39 AM" src="https://user-images.githubusercontent.com/97335788/193337984-7ffc7616-96bf-4cd3-b84f-22f997ee7a48.png">
+<img width="1436" alt="Screenshot 2022-10-17 at 10 50 42 AM" src="https://user-images.githubusercontent.com/97335788/196095282-d90eda7d-6a26-4df3-ae51-4c9b52ac58ae.png">
+
 
 
 
  
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fabpot11&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
