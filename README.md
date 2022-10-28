@@ -115,18 +115,5 @@
 
  <br/>
  
-   <h3 src="https://github.com/arpitc11" align="center">Company github profile</h3>
-
-<img width="1436" alt="Screenshot 2022-10-17 at 10 50 42 AM" src="https://user-images.githubusercontent.com/97335788/196095282-d90eda7d-6a26-4df3-ae51-4c9b52ac58ae.png">
-
-
-<h3 src="https://github.com/arpitc11" align="center">Company github profile achievements </h3>
-
-<img width="326" alt="Screenshot 2022-10-17 at 10 55 52 AM" src="https://user-images.githubusercontent.com/97335788/196095890-31ccb3eb-7676-421c-b008-40d4e05752e0.png">
-
- 
- 
-
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-
+ <h3 src="https://github.com/arpitc11" align="center">Company github profile</h3>
+    <img width="1437" alt="Screenshot 2022-10-28 at 5 22 36 PM" src="https://user-images.githubusercontent.com/97335788/198580974-1b068455-93dc-408b-bdb3-6ba19988fa33.png">
