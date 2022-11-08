@@ -115,5 +115,5 @@
 
  <br/>
  
- <h3 src="https://github.com/arpitc11" align="center">Company github profile</h3>
-    <img width="1437" alt="Screenshot 2022-10-28 at 5 22 36 PM" src="https://user-images.githubusercontent.com/97335788/198580974-1b068455-93dc-408b-bdb3-6ba19988fa33.png">
+ 
+ <img width="1436" alt="Screenshot 2022-11-08 at 7 18 43 PM" src="https://user-images.githubusercontent.com/97335788/200581992-b4d81b32-9910-4d6a-b890-dd1c57371f13.png">
