@@ -118,4 +118,4 @@
  <p align="center">
  <h1>Company GitHub Profile</h1>
  </p>
- <img width="1436" alt="Screenshot 2022-11-08 at 7 18 43 PM" src="https://user-images.githubusercontent.com/97335788/200581992-b4d81b32-9910-4d6a-b890-dd1c57371f13.png">
+<img width="1381" alt="Screenshot 2023-04-23 at 3 08 44 PM" src="https://user-images.githubusercontent.com/97335788/233831995-a28c4f04-02ee-4a02-9fbd-ef06e256a1be.png">
