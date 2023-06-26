@@ -116,6 +116,10 @@
  <br/>
  
  <p align="center">
+ <a href="https://github.com/arpitc11">
  <h1>Company GitHub Profile</h1>
+</a>
  </p>
-<img width="1381" alt="Screenshot 2023-04-23 at 3 08 44 PM" src="https://user-images.githubusercontent.com/97335788/233831995-a28c4f04-02ee-4a02-9fbd-ef06e256a1be.png">
+ <a href="https://github.com/arpitc11"><span>
+ <img width="1435" alt="Screenshot 2023-06-26 at 5 24 57 PM" src="https://github.com/fabpot11/fabpot11/assets/97335788/57962407-c9a7-4441-9e7d-6eeb90af6dab">
+</span></a>
