@@ -31,7 +31,7 @@
 
 <br>
 
-<h2 align="center">🛠  Languages and Tools 🛠 </h2>
+<h2 align="center">Languages and Tools 🛠 </h2>
 <br>
 
 <div align="center">
@@ -63,42 +63,7 @@
  <br>
 
  </div>
- 
-<br>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align=center>
-
- <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=425 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot11&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  <br>
-<br>
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=fabpot11&theme=react&border=61dafb&hide_border=true" alt="fabpot11" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=fabpot11&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
- <br/>
-<p align="center">
-<a href="https://github.com/fabpot11"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabpot11&theme=dracula" />
-</span></a> </p>
-
- <br/>
- 
- <p align="center">
- <a href="https://github.com/arpitc11">
+ <br> <br> <br> <br>
  <h1>Company GitHub Profile</h1>
 </a>
  </p>
