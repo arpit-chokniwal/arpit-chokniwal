@@ -1,28 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpot11&label=Profile%20views&color=0e75b6&style=flat" alt="fabpot11" /> </p>
- 
-<div align="center">
- <img align="center" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-</div>
-<br>
 
-
-
-
-
- 
- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Arpit</h1>
+ <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Arpit</h1>
 
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
 </p>
-
-
-<!-- <div align=center>
- <li>- 🔭 I’m currently working on </li>
- <li>- 🌱 In development I’m currently learning MERN</li>
- <li>- 🌱 In coding I’m currently learning Data Structure and Algorithm</li>
- 
-</div> -->
 
 <h3 align="center">A passionate web developer from India</h3>
 
@@ -39,12 +21,13 @@
 <h2 align="center">🤝🏻  Connect with Me 🤝
 </h2>
 <br>
-<p>
- <div align="center">
-<a target=”_blank” href="https://www.linkedin.com/in/arpit-4bb8a8201/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target=”_blank” href="mailto:arpitchokniwal09@gmail.com"><img src="https://img.shields.io/badge/arpitchokniwal09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</p>
+ <div align="center">
+<a target=”_blank” href="https://twitter.com/arpitwt" ><img src="https://img.shields.io/twitter/follow/arpitwt"/></a>
+  
+<a target=”_blank” href="https://linkedin.com/in/arpitchokniwal/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a target=”_blank” href="mailto:arpitchokniwal09@gmail.com"><img src="https://img.shields.io/badge/arpitchokniwal09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 <br>
