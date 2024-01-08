@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" alt="Typing SVG" />
 </p>
 
-<br>
+
 
 <h2 align="center">Languages and Tools 🛠 </h2>
 <br>
