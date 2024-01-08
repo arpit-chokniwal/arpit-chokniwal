@@ -17,18 +17,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A Passionate Web Developer from India</h3>
-
-<p align="left">
-  - 🙂 Exploring new technologies and data structures. <br>
-  - 🎓 Learning Full Stack Web Development with JavaScript frameworks. <br>
-  - 💼 Aspiring Full Stack Developer. <br>
-  - 🌱 Currently learning AWS, MongoDB, Python, and TypeScript. <br>
-  - 👯 Looking to collaborate on MERN Stack projects and open source contributions. <br>
-  - 💬 Happy to discuss anything related to MERN stack and algorithms. <br>
-  - ⚡ Fun fact: I'm a coder who loves fitness! 😄
-</p>
-
 <br>
 
 <h2 align="center">Languages and Tools 🛠 </h2>
