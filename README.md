@@ -121,5 +121,8 @@
 </a>
  </p>
  <a href="https://github.com/arpitc11"><span>
- <img width="1435" alt="Screenshot 2023-06-26 at 5 24 57 PM" src="https://github.com/fabpot11/fabpot11/assets/97335788/57962407-c9a7-4441-9e7d-6eeb90af6dab">
+<img width="1440" alt="Arpit Company Github Profile" src="https://github.com/fabpot11/fabpot11/assets/97335788/b3cf0e60-12fb-43b8-9434-fd94ea7313d1">
+
+
+  
 </span></a>
