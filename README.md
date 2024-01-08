@@ -1,35 +1,34 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpot11&label=Profile%20views&color=0e75b6&style=flat" alt="fabpot11" /> </p>
-
- <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Arpit</h1>
-
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fabpot11&label=Profile%20views&color=0e75b6&style=flat" alt="fabpot11" />
 </p>
 
-<h3 align="center">A passionate web developer from India</h3>
+<div>
+<h1 align="center">Hey 👋, I'm Arpit</h1>
 
- - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
-- 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks.
-- 💼 &nbsp; I aspire to work as a full stack web developer.
-- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
-- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
-- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if I am unable then surely we will together learn new things.
-- ⚡ Fun fact: Coder with biceps.:smile:
-
-<br>
-
-<h2 align="center">🤝🏻  Connect with Me 🤝
-</h2>
-<br>
-
- <div align="center">
-<a target=”_blank” href="https://twitter.com/arpitwt" ><img src="https://img.shields.io/twitter/follow/arpitwt"/></a>
-  
-<a target=”_blank” href="https://linkedin.com/in/arpitchokniwal/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a target=”_blank” href="mailto:arpitchokniwal09@gmail.com"><img src="https://img.shields.io/badge/arpitchokniwal09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<p align="center">
+  <a href="https://twitter.com/arpitwt"><img src="https://img.shields.io/twitter/follow/arpitwt" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/arpitchokniwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"/></a>
+  <a href="mailto:arpitchokniwal09@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red" alt="Gmail"/></a>
+</p>
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms" alt="Typing SVG" />
+</p>
+
+<h3 align="center">A Passionate Web Developer from India</h3>
+
+<p align="left">
+  - 🙂 Exploring new technologies and data structures. <br>
+  - 🎓 Learning Full Stack Web Development with JavaScript frameworks. <br>
+  - 💼 Aspiring Full Stack Developer. <br>
+  - 🌱 Currently learning AWS, MongoDB, Python, and TypeScript. <br>
+  - 👯 Looking to collaborate on MERN Stack projects and open source contributions. <br>
+  - 💬 Happy to discuss anything related to MERN stack and algorithms. <br>
+  - ⚡ Fun fact: I'm a coder who loves fitness! 😄
+</p>
+
 <br>
 
 <h2 align="center">🛠  Languages and Tools 🛠 </h2>
